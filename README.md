@@ -1,5 +1,5 @@
 # Hand_sign_prediction
-Project Description: Problem statement: Create a Deep learning model to predict the different hand signs images.
+Problem statement: Create a Deep learning model to predict the different hand signs images.
 
 Context: Sign languages (also known as signed languages) are languages that use manual
 communication to convey meaning. This can include simultaneously employing hand
